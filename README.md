@@ -140,16 +140,7 @@ An end-to-end AI fitness coaching assistant that analyzes user movements in real
 
 **Tech:** Python · MediaPipe · OpenCV · Streamlit · Groq LLM · gTTS
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishnak64&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnak64&layout=compact&hide_border=true" />
-</p>
-
----
 
 ### 🔗 Connect With Me
 
