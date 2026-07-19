@@ -138,8 +138,6 @@ An end-to-end AI fitness coaching assistant that analyzes user movements in real
 - 🌐 Live: ai-gym-coach-live.netlify.app
 
 
-Tech: Python · MediaPipe · OpenCV · Streamlit · Groq LLM · gTTS
-
 **Tech:** Python · MediaPipe · OpenCV · Streamlit · Groq LLM · gTTS
 
 ---
