@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;Full+Stack+(MERN);Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Krishnak64&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -28,6 +32,7 @@
 |---|---|---|---|
 | B.Tech, Information Technology | IEC College Of Engineering & Technology | Dr. A. P. J. Abdul Kalam Technical University, Lucknow | 2023 – 2027 (Expected) |
 
+*(Add relevant coursework, CGPA, or achievements here if you'd like to highlight them.)*
 
 ---
 
@@ -87,15 +92,13 @@ An AI-powered website builder built on the MERN stack.
 #### [Vybe](https://github.com/Krishnak64/1.vybe)
 A production-grade, full-stack social media application.
 
+- 🚀 Engineered a production-grade **MERN stack** social media app featuring **Posts, Reels, Stories, Likes, Comments**, and a **Follow/Unfollow** system serving real users
+- 💬 Architected **real-time chat and instant notifications** using **Socket.IO**, enabling low-latency bi-directional communication at scale
+- 🔐 Implemented end-to-end secure authentication using **JWT** and **bcrypt**-hashed passwords with protected REST API endpoints
+- ⚡ Boosted backend query performance via **MongoDB indexing** and managed all media uploads through **Cloudinary**
+- 🌐 **Live:** [vybe-s6ib.onrender.com](https://vybe-s6ib.onrender.com/signin)
 
-🚀 Engineered a production-grade MERN stack social media app featuring Posts, Reels, Stories, Likes, Comments, and a Follow/Unfollow system serving real users
-💬 Architected real-time chat and instant notifications using Socket.IO, enabling low-latency bi-directional communication at scale
-🔐 Implemented end-to-end secure authentication using JWT and bcrypt-hashed passwords with protected REST API endpoints
-⚡ Boosted backend query performance via MongoDB indexing and managed all media uploads through Cloudinary
-🌐 Live: vybe-s6ib.onrender.com
-
-
-Tech: MERN Stack (React, Node.js, Express, MongoDB) · Socket.IO · JWT · bcrypt · Cloudinary
+**Tech:** MERN Stack (React, Node.js, Express, MongoDB) · Socket.IO · JWT · bcrypt · Cloudinary
 
 ---
 
@@ -106,8 +109,8 @@ A full-stack MERN SaaS platform that generates AI-powered study summaries and re
 - 📊 Rendered dynamic visual diagrams using **Mermaid.js**
 - 🔐 Integrated **Firebase Authentication** for secure sign-in flows
 - 💳 Integrated **Stripe API** for recurring subscription-based payment processing
-- ☁️ ☁️ Deployed on cloud infrastructure with a focus on scalability, performance optimization, and long-term maintainability
-🌐 Live: examnotesaiclient-vl8k.onrender.com
+- ☁️ Deployed on cloud infrastructure with a focus on scalability, performance optimization, and long-term maintainability
+- 🌐 **Live:** [examnotesaiclient-vl8k.onrender.com](https://examnotesaiclient-vl8k.onrender.com/auth)
 
 **Tech:** React.js · Node.js · Express.js · MongoDB · Firebase · Stripe · Gemini API
 
@@ -120,9 +123,7 @@ An AI-powered attendance management system that automates classroom attendance t
 - ☁️ Integrated a **Supabase** cloud database for real-time attendance tracking, record management, and data persistence
 - 🔐 Built a secure authentication layer using **bcrypt** password hashing and dynamic QR code generation with **segno**
 - ⚡ Reduced manual attendance processing time by **80–90%** through full automation of the attendance workflow
-- 🌐 Live: snapclass-ai-attendance-landing-pag.vercel.app
-
-
+- 🌐 **Live:** [snapclass-ai-attendance-landing-pag.vercel.app](https://snapclass-ai-attendance-landing-pag.vercel.app/)
 
 **Tech:** Python · Streamlit · dlib · face_recognition · librosa · resemblyzer · Supabase · bcrypt · segno
 
@@ -135,8 +136,7 @@ An end-to-end AI fitness coaching assistant that analyzes user movements in real
 - 🤖 Integrated the **Groq LLM API** to generate personalized workout suggestions, form corrections, and motivational feedback
 - 🔊 Implemented hands-free, voice-assisted coaching using **gTTS** text-to-speech for real-time audio guidance during workouts
 - 🌐 Deployed the application online, enabling real-time AI coaching through a browser-based interface
-- 🌐 Live: ai-gym-coach-live.netlify.app
-
+- 🌐 **Live:** [ai-gym-coach-live.netlify.app](https://ai-gym-coach-live.netlify.app/)
 
 **Tech:** Python · MediaPipe · OpenCV · Streamlit · Groq LLM · gTTS
 
