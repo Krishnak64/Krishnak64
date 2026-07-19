@@ -28,7 +28,7 @@
 |---|---|---|---|
 | B.Tech, Information Technology | IEC College Of Engineering & Technology | Dr. A. P. J. Abdul Kalam Technical University, Lucknow | 2023 – 2027 (Expected) |
 
-*(Add relevant coursework, CGPA, or achievements here if you'd like to highlight them.)*
+
 
 ---
 
