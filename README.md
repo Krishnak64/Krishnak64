@@ -116,7 +116,7 @@ A full-stack MERN SaaS platform that generates AI-powered study summaries and re
 
 ---
 
-#### SnapClass AI – Intelligent Attendance Management System
+#### SnapClass AI – Intelligent Attendance Management System (AI/ML)
 An AI-powered attendance management system that automates classroom attendance through face recognition, voice AI, and QR code verification, eliminating proxy attendance.
 
 - 🧠 Implemented multi-modal identity verification combining **dlib** and **face_recognition** for facial recognition with **librosa** and **resemblyzer** for voice-based authentication
@@ -129,7 +129,7 @@ An AI-powered attendance management system that automates classroom attendance t
 
 ---
 
-#### AI Realtime Gym Coach
+#### AI Realtime Gym Coach (AI/ML)
 An end-to-end AI fitness coaching assistant that analyzes user movements in real time through webcam-based pose estimation, combining computer vision with large language models.
 
 - 🏋️ Applied **MediaPipe** pose estimation to track 33 body landmarks in real time for exercise form analysis
