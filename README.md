@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a **fresher** actively looking for opportunities as a **Software Engineer / MERN Stack Developer**
+- 🎓 I'm a **fresher (B.Tech Final Year Student)** actively looking for opportunities as a **Software Engineer / MERN Stack Developer**
 - 🛠️ Built **6+ full-stack and AI-powered projects**, from SaaS platforms to computer-vision applications
 - 💻 I build full-stack, production-style applications end to end — frontend, backend, database, auth, and payments
 - 🤖 Recently built an **AI-integrated website builder** using the OpenRouter API
