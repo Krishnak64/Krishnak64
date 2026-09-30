@@ -158,4 +158,4 @@ An end-to-end AI fitness coaching assistant that analyzes user movements in real
 
 ---
 
-<p align="center"><i>Open to full-time roles and internships as a Software Engineer / MERN Stack Developer or Data Scientist / AI Engineer — let's connect!</i></p>
+<p align="center"><i>Open to full-time roles and internships as a Software Engineer / MERN Stack Developer OR Data Scientist / AI Engineer — let's connect!</i></p>
