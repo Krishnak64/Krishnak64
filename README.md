@@ -547,7 +547,7 @@ Currently practicing **DSA using Java** for software engineering interviews and 
 
 # 📈 Current Learning Goals
 
-
+``` text
 ✓ MERN Stack Development
 ✓ Data Science
 ✓ Machine Learning
@@ -566,6 +566,7 @@ Currently practicing **DSA using Java** for software engineering interviews and 
 ✓ CI/CD
 → Scalable Backend Architecture
 → Advanced AI Engineering
+```
 
 
 ---
