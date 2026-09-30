@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 
-<h3 align="center">Software Engineer | MERN Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Software Engineer | FULL Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <i>Building full-stack, AI-powered and scalable applications</i>
