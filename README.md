@@ -18,9 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krishnak64&label=Profile%20Views&color=2E9EF7&style=flat-square" />
-</p>
 
 ---
 
@@ -29,10 +26,9 @@
 * 🎓 B.Tech **Information Technology** student at **IEC College Of Engineering & Technology**
 * 📅 Expected Graduation: **2027**
 * 💼 Aspiring **Software Engineer / Full Stack Developer**
-* ⚛️ Strong focus on **MERN Stack Development**
+* 📊 Exploring **Data Science, Machine Learning, AI Engineer and Computer Vision**
 * 🤖 Building applications with **Generative AI, LLMs and AI Agents**
 * 🧠 Working with **LangChain, LangGraph, RAG and AI Agent architectures**
-* 📊 Exploring **Data Science, Machine Learning and Computer Vision**
 * ☁️ Hands-on experience with **AWS, Docker and CI/CD**
 * 🗄️ Experience with **MongoDB, MySQL and Redis**
 * 🔐 Building secure applications using **JWT, Firebase Authentication and bcrypt**
@@ -272,7 +268,7 @@ Python → NumPy → Pandas → Scikit-learn → OpenCV → MediaPipe
 
 ---
 
-# ☁️ Cloud, DevOps & Deployment
+# ☁️ Cloud & Deployment
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -294,7 +290,6 @@ Python → NumPy → Pandas → Scikit-learn → OpenCV → MediaPipe
 * Dockerized Applications
 * GitHub Actions
 * CI/CD
-* Environment Configuration
 * Cloud Deployment
 * Vercel
 * Render
@@ -366,32 +361,33 @@ A multi-agent AI platform designed around specialized AI agents and scalable bac
 * ☁️ AWS deployment
 * 🔄 CI/CD with GitHub Actions
 
+  📂 **Repository and Demo Video:**https://github.com/Krishnak64/Multi-Agent-AI-Platform-CortexAI-
+
 ### AI Agents
 
-```text
-Chat Agent
-Search Agent
-Coding Agent
-Vision Agent
-PDF Agent
-PPT Agent
-PDF RAG Agent
-Image-to-Text Agent
-```
+      ```text
+      Chat Agent
+      Search Agent
+      Coding Agent
+      Vision Agent
+      PDF Agent
+      PPT Agent
+      PDF RAG Agent
+      ```
 
 ### AI Routing
 
-```text
-User Request
-      ↓
-LangGraph Router
-      ↓
-Specialized Agent
-      ↓
-LLM / Tool / RAG
-      ↓
-Streaming Response
-```
+      ```text
+      User Request
+            ↓
+      LangGraph Router
+            ↓
+      Specialized Agent
+            ↓
+      LLM / Tool / RAG
+            ↓
+      Streaming Response
+      ```
 
 **Tech:** MERN · Node.js · Express · MongoDB · Redis · LangChain · LangGraph · RAG · Qdrant · Groq · Gemini · OpenRouter · AWS · Docker · GitHub Actions
 
@@ -458,27 +454,27 @@ An AI-powered fitness coaching application that analyzes exercise movements thro
 
 ### Pipeline
 
-```text
-Camera
-  ↓
-Video Frame
-  ↓
-OpenCV
-  ↓
-MediaPipe Pose
-  ↓
-Body Landmarks
-  ↓
-Joint Angles
-  ↓
-Rep Counting
-  ↓
-Exercise Analysis
-  ↓
-AI Feedback
-  ↓
-Voice Coaching
-```
+    ```text
+    Camera
+      ↓
+    Video Frame
+      ↓
+    OpenCV
+      ↓
+    MediaPipe Pose
+      ↓
+    Body Landmarks
+      ↓
+    Joint Angles
+      ↓
+    Rep Counting
+      ↓
+    Exercise Analysis
+      ↓
+    AI Feedback
+      ↓
+    Voice Coaching
+    ```
 
 **Tech:** Python · Streamlit · OpenCV · MediaPipe · Groq · gTTS · Pandas
 
@@ -555,6 +551,9 @@ Currently practicing **DSA using Java** for software engineering interviews and 
 
 ```text
 ✓ MERN Stack Development
+✓ Data Science
+✓ Machine Learning
+✓ Computer Vision
 ✓ Data Structures & Algorithms
 ✓ Backend Architecture
 ✓ REST APIs
@@ -564,12 +563,9 @@ Currently practicing **DSA using Java** for software engineering interviews and 
 ✓ LangGraph
 ✓ RAG
 ✓ AI Agents
-✓ Machine Learning
-✓ Computer Vision
 ✓ Docker
 ✓ AWS
 ✓ CI/CD
-→ System Design
 → Scalable Backend Architecture
 → Advanced AI Engineering
 ```
@@ -582,7 +578,7 @@ I am interested in opportunities involving:
 
 * 💻 Software Engineering
 * 🌐 Full Stack Development
-* ⚛️ MERN Stack Development
+* 🧰 Data Scientist
 * 🤖 AI Engineering
 * 🧠 Generative AI
 * 📊 Machine Learning
