@@ -52,25 +52,24 @@
 
 ## 🧑‍💻 What I Do
 
-```text
-Full Stack Development
-        ↓
-React.js → Node.js → Express.js → MongoDB
-        ↓
-REST APIs → Authentication → Payments → Real-Time Features
-        ↓
-AI Integration
-        ↓
-LLMs → LangChain → LangGraph → RAG → AI Agents
-        ↓
-Cloud & Deployment
-        ↓
-Docker → AWS → CI/CD → Cloud Services
-        ↓
-Data & ML
-        ↓
-Python → NumPy → Pandas → Scikit-learn → OpenCV → MediaPipe
-```
+        Full Stack Development
+                ↓
+        React.js → Node.js → Express.js → MongoDB
+                ↓
+        REST APIs → Authentication → Payments → Real-Time Features
+                ↓
+        AI Integration
+                ↓
+        LLMs → LangChain → LangGraph → RAG → AI Agents
+                ↓
+        Cloud & Deployment
+                ↓
+        Docker → AWS → CI/CD → Cloud Services
+                ↓
+        Data & ML
+                ↓
+        Python → NumPy → Pandas → Scikit-learn → OpenCV → MediaPipe
+
 
 ---
 
@@ -365,29 +364,28 @@ A multi-agent AI platform designed around specialized AI agents and scalable bac
 
 ### AI Agents
 
-      ```text
-      Chat Agent
-      Search Agent
-      Coding Agent
-      Vision Agent
-      PDF Agent
-      PPT Agent
-      PDF RAG Agent
-      ```
+          Chat Agent
+          Search Agent
+          Coding Agent
+          Vision Agent
+          PDF Agent
+          PPT Agent
+          PDF RAG Agent
+
 
 ### AI Routing
 
-      ```text
-      User Request
-            ↓
-      LangGraph Router
-            ↓
-      Specialized Agent
-            ↓
-      LLM / Tool / RAG
-            ↓
-      Streaming Response
-      ```
+
+          User Request
+                ↓
+          LangGraph Router
+                ↓
+          Specialized Agent
+                ↓
+          LLM / Tool / RAG
+                ↓
+          Streaming Response
+
 
 **Tech:** MERN · Node.js · Express · MongoDB · Redis · LangChain · LangGraph · RAG · Qdrant · Groq · Gemini · OpenRouter · AWS · Docker · GitHub Actions
 
@@ -454,27 +452,27 @@ An AI-powered fitness coaching application that analyzes exercise movements thro
 
 ### Pipeline
 
-    ```text
-    Camera
-      ↓
-    Video Frame
-      ↓
-    OpenCV
-      ↓
-    MediaPipe Pose
-      ↓
-    Body Landmarks
-      ↓
-    Joint Angles
-      ↓
-    Rep Counting
-      ↓
-    Exercise Analysis
-      ↓
-    AI Feedback
-      ↓
-    Voice Coaching
-    ```
+    
+        Camera
+          ↓
+        Video Frame
+          ↓
+        OpenCV
+          ↓
+        MediaPipe Pose
+          ↓
+        Body Landmarks
+          ↓
+        Joint Angles
+          ↓
+        Rep Counting
+          ↓
+        Exercise Analysis
+          ↓
+        AI Feedback
+          ↓
+        Voice Coaching
+
 
 **Tech:** Python · Streamlit · OpenCV · MediaPipe · Groq · gTTS · Pandas
 
@@ -549,7 +547,7 @@ Currently practicing **DSA using Java** for software engineering interviews and 
 
 # 📈 Current Learning Goals
 
-```text
+
 ✓ MERN Stack Development
 ✓ Data Science
 ✓ Machine Learning
@@ -568,7 +566,7 @@ Currently practicing **DSA using Java** for software engineering interviews and 
 ✓ CI/CD
 → Scalable Backend Architecture
 → Advanced AI Engineering
-```
+
 
 ---
 
