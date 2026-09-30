@@ -360,7 +360,7 @@ A multi-agent AI platform designed around specialized AI agents and scalable bac
 * ☁️ AWS deployment
 * 🔄 CI/CD with GitHub Actions
 
-  📂 **Repository and Demo Video:**https://github.com/Krishnak64/Multi-Agent-AI-Platform-CortexAI-
+  📂 **Repository and Demo Video:** https://github.com/Krishnak64/Multi-Agent-AI-Platform-CortexAI-
 
 ### AI Agents
 
