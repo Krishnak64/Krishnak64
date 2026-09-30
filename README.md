@@ -66,7 +66,7 @@
                 ↓
         Docker → AWS → CI/CD → Cloud Services
                 ↓
-        Data & ML
+        Data & AI/ ML
                 ↓
         Python → NumPy → Pandas → Scikit-learn → OpenCV → MediaPipe
 
@@ -577,7 +577,7 @@ I am interested in opportunities involving:
 
 * 💻 Software Engineering
 * 🌐 Full Stack Development
-* 🧰 Data Scientist
+* 🧰 Data Science
 * 🤖 AI Engineering
 * 🧠 Generative AI
 * 📊 Machine Learning
