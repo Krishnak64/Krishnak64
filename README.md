@@ -101,13 +101,19 @@
 
 **Frontend Skills**
 
-* React.js                                                                        * Tailwind CSS
-* React Router                                                                    * Responsive UI Development
-* Redux Toolkit                                                                   * Vite
-* JavaScript (ES6+)                                                               * Monaco Editor
-* HTML5                                                                           * Mermaid.js
-* CSS3                                                                            * API Integration
+* React.js                                                                        
+* React Router                                                                   
+* Redux Toolkit                                                                   
+* JavaScript (ES6+)                                                               
+* HTML5                                                                           
+* CSS3
+* Tailwind CSS
+* Vite
+* API Integration
 * State Management
+* Monaco Editor
+* Responsive UI Development
+* Mermaid.js
 
 ---
 
@@ -122,11 +128,15 @@
 
 **Backend Skills**
 
-* Node.js                                                                             * Real-Time Communication
-* Express.js                                                                          * Socket.IO
-* REST API Development                                                                * Backend Authentication
-* Middleware                                                                          * API Integration
+* Node.js                                                                             
+* Express.js                                                                          
+* REST API Development                                                                
+* Middleware                                                                          
 * API Architecture
+* Real-Time Communication
+* Socket.IO
+* Backend Authentication
+* API Integration
 * Error Handling
 
 ---
@@ -166,14 +176,22 @@
 
 **AI Skills**
 
-* Generative AI                                                                              * Multi-Agent Workflows
-* Large Language Models (LLMs)                                                               * LLM Routing
-* LangChain                                                                                  * Streaming AI Responses
-* LangGraph                                                                                  * Vector Search
-* Retrieval-Augmented Generation (RAG)                                                       * OpenRouter API
-* AI Agents                                                                                  * Qdrant
-* Agentic AI                                                                                 * Google Gemini API
-* Tool Calling                                                                               * Groq API
+* Generative AI
+* Multi-Agent Workflows
+* Large Language Models (LLMs)
+* LLM Routing
+* LangChain
+* Streaming AI Responses
+* LangGraph
+* Vector Search
+* Retrieval-Augmented Generation (RAG)
+* OpenRouter API
+* AI Agents
+* Qdrant
+* Agentic AI
+* Google Gemini API
+* Tool Calling
+* Groq API
 
 ---
 
@@ -191,17 +209,27 @@
 
 **ML / Data Skills**
 
-* Data Cleaning                                                                       * Decision Trees
-* Exploratory Data Analysis (EDA)                                                     * Random Forest
-* Feature Engineering                                                                 * KNN
-* Data Preprocessing                                                                  * Logistic Regression
-* Feature Scaling                                                                     * Linear Regression
-* Train/Test Split                                                                    * PCA
-* Regression                                                                          * Isolation Forest
-* Classification                                                                      * Model Evaluation
-* Cross Validation                                                                    * NLP Fundamentals
-* CountVectorizer                                                                     * TF-IDF
-* Computer Vision                                                                     * Pose Estimation                            
+* Data Cleaning                                                                       
+* Exploratory Data Analysis (EDA)                                                     
+* Feature Engineering                                                                 
+* Data Preprocessing                                                                  
+* Feature Scaling                                                                     
+* Train/Test Split                                                                    
+* Regression
+* Decision Trees                                                                     * Isolation Forest
+* Classification
+* Random Forest
+* KNN
+* Linear Regression
+* Logistic Regression
+* PCA
+* Model Evaluation                                                    
+* Cross Validation
+* NLP Fundamentals
+* CountVectorizer
+* TF-IDF
+* Computer Vision
+* Pose Estimation                            
 
 
 ---
@@ -228,10 +256,14 @@
 <img src="https://img.shields.io/badge/bcrypt-003B57?style=for-the-badge"/>
 </p>
 
-* JWT Authentication                                                               * bcrypt
-* Firebase Authentication                                                          * Session Management
-* Protected Routes                                                                 * Role-Based Access Concepts
-* Password Hashing                                                                 * Secure REST APIs
+* JWT Authentication
+* bcrypt
+* Firebase Authentication
+* Session Management
+* Protected Routes
+* Role-Based Access Concepts
+* Password Hashing
+* Secure REST APIs
 
 ---
 
@@ -250,11 +282,16 @@
 
 **Cloud & DevOps Skills**
 
-* AWS                                                                                 * CI/CD
-* Amazon S3                                                                           * Cloud Deployment
-* CloudFront                                                                          * Vercel
-* Docker                                                                              * Render
-* Dockerized Applications                                                             * Netlify
+* AWS
+* CI/CD
+* Amazon S3
+* Cloud Deployment
+* CloudFront
+* Vercel
+* Docker
+* Render
+* Dockerized Applications
+* Netlify
 * GitHub Actions
 
 ---
