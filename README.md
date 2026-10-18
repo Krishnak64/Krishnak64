@@ -541,8 +541,8 @@ Currently practicing **DSA using Java** for software engineering interviews and 
 * 🤖 AI/ML — Apna College Prime
 * 🧠 Microsoft Foundations of AI — Edunet Foundation + AICTE
 * ⚛️ React.js Basic to Advanced — Physics Wallah
-* 🤖 Generative AI & Prompt Engineering — PW Skills
-* 📊 Excel with Copilot — PW Skills
+* 🤖 Generative AI  — PW Skills
+* 📊 Cloude AI — PW Skills
 
 ---
 
