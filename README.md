@@ -537,6 +537,7 @@ Currently practicing **DSA using Java** for software engineering interviews and 
 # 📜 Certifications & Learning
 
 * 🧠 DSA with Java — Apna College
+* 🌐 Web Development — Apna College
 * 🤖 AI/ML — Apna College Prime
 * 🧠 Microsoft Foundations of AI — Edunet Foundation + AICTE
 * ⚛️ React.js Basic to Advanced — Physics Wallah
